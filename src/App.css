@@ -1,0 +1,26 @@
+.App{
+
+  padding :5px 20px;
+ 
+}
+.App p{
+  text-align: center;
+  padding: 0px;
+margin: 0px;
+}
+.App h1{
+  text-align: center;
+}
+/* .App button{
+
+  width: 15%;
+  height: 40px;
+  background-color: #4c89ff;
+  border: 0;
+  border-radius: 5px;
+  
+} */
+.App table{
+  margin:20px 0;
+}
+
